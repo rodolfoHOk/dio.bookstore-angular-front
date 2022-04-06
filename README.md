@@ -3,7 +3,7 @@
 > Desafio de Projeto: Como criar um front-end de um e-commerce utilizando Angular
 > BootCamp Philips Fullstack Developer da DIO
 
-<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/bookstore-01.png" alt="BookStore Img1" width="450"/>
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/bookstore-1.png" alt="BookStore Img1" width="450"/>
 
 ## 👨‍💻 Tecnologias utilizadas 👩‍💻
 
@@ -22,6 +22,14 @@
 - Estilização com bootstrap em cores escuras
 
 - Filtro por título
+
+- Funcionalidades do filtro
+
+## 🖼️ Outras imagens 🖼️
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/bookstore-2.png" alt="BookStore Img1" width="450"/>
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/bookstore-3.png" alt="BookStore Img1" width="450"/>
 
 ## Angular Infos
 
