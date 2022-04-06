@@ -17,13 +17,13 @@
 
 ## ➕ O que fiz além ✨
 
-- Header svg
+- Adicionado imagem no menu de navegação
 
-- Estilização com bootstrap em cores escuras
+- Estilização CSS com Bootstrap em cores escuras
 
-- Filtro por título
+- Implementação das funcionalidades do filtro com uso do Reactive Forms do Angular
 
-- Funcionalidades do filtro
+- Adicionado Filtro por título
 
 ## 🖼️ Outras imagens 🖼️
 
