@@ -1,6 +1,7 @@
 # Bookstore Angular Front-End
 
 > Desafio de Projeto: Como criar um front-end de um e-commerce utilizando Angular
+
 > BootCamp Philips Fullstack Developer da DIO
 
 <img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/bookstore-1.png" alt="BookStore Img1" width="450"/>
