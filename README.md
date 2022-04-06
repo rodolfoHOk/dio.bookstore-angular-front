@@ -8,19 +8,22 @@
 ## 👨‍💻 Tecnologias utilizadas 👩‍💻
 
 - Linguagem : Typescript / Javascript
-- Framework : Angular
+- UI Framework : Angular
+- CSS Framework : Bootstrap
 
 ### 🗃️ Bibliotecas adicionais utilizadas 📚
 
--
+- bootstrap : framework CSS
 
-## ➕ O que fiz além das aulas e dos desafios ✨
+## ➕ O que fiz além ✨
 
--
+- Header svg
+
+- Estilização com bootstrap
 
 ## 🖼️ Outras imagens 🖼️
 
-<img src="" alt="BookStore Img1" width="450"/>
+<img src="" alt="BookStore Img2" width="450"/>
 
 ## Angular Infos
 
