@@ -72,7 +72,7 @@ export class BookService {
   getBooks(filter?: Filter): Observable<Book[]> {
     let params = new HttpParams();
     if (filter) {
-      if (filter.title) params.set('name', filter.title);
+      if (filter.title) params.set('title', filter.title);
       if (filter.from) params.set('from', filter.from);
       if (filter.to) params.set('to', filter.to);
     }
